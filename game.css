@@ -6,6 +6,8 @@
     padding:10px;
     float: none;
     text-align: left;
+    transition: 0.5s;
+
 }
 #output:hover{
     box-shadow: 0 0 20px white;
